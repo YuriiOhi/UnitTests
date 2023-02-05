@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0AB79FDA-B712-4879-8788-857F25543630"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F19A9593-DE46-4E14-95ED-CA11133B9C8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "doCall(_:function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5EF16DB-8705-41F4-ABAE-B37EFAB19434"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "doCall(_:function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7EEDE7C-5852-4C8D-8500-F1054825C324"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "call(_:function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B5871AA-F3CA-4493-821C-CDFE7FEF485E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "call(_:function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64F5D61D-D675-4D2A-BAE4-29FB07A16C60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "expect(label:job:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95EC7B52-4346-4B53-9DE6-95E3D4CF41AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "expect(label:job:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B22E3A2-E4D9-4CE5-BE3D-590B6B85BE7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "expect(result:label:job:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B22E3A2-E4D9-4CE5-BE3D-590B6B85BE7C - 7a94f7e9ca4b85e9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SSSugarTesting.SSMocking.expect&lt;&#x3c4;_0_0&gt;(result: &#x3c4;_1_0, label: Swift.Optional&lt;Swift.String&gt;, job: (&#x3c4;_0_0) throws -&gt; &#x3c4;_1_0) -&gt; SSSugarTesting.SSMockCallExpectation"
+                  moduleName = "TestingWithStasTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriimac/Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "5B22E3A2-E4D9-4CE5-BE3D-590B6B85BE7C - 9f9bff7c8096521b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (&#x3c4;_0_0, SSSugarTesting.SSMockCallArgs) throws -&gt; &#x3c4;_1_0 in SSSugarTesting.SSMocking.expect&lt;&#x3c4;_0_0&gt;(result: &#x3c4;_1_0, label: Swift.Optional&lt;Swift.String&gt;, job: (&#x3c4;_0_0) throws -&gt; &#x3c4;_1_0) -&gt; SSSugarTesting.SSMockCallExpectation"
+                  moduleName = "TestingWithStasTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriimac/Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70A977A4-CAB0-441C-A2F9-E354312B9D7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "doCall(_:function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "119F15E8-73B3-4BA4-B85D-85502B2C2D6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMockCallExpectation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "retValue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "850A9376-1FB6-41EC-BAE1-EBB8A3146FE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMockCallExpectation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "process(function:args:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9735BB1A-548B-49AE-96AE-9070A85EF30B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestingWithStasTests/TestingWithStasTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "expectGet(book:with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9735BB1A-548B-49AE-96AE-9070A85EF30B - a7fb6c4b58aa49d0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingWithStasTests.DBStoragseMock.expectGet(book: Swift.Optional&lt;TestingWithStas.Book&gt;, with: Swift.Int) -&gt; ()"
+                  moduleName = "TestingWithStasTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriimac/dev/TestingWithStas/TestingWithStasTests/TestingWithStasTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "9735BB1A-548B-49AE-96AE-9070A85EF30B - a3bb7fc349476ede"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestingWithStasTests.DBStoragseMock, SSSugarTesting.SSMockCallArgs) -&gt; Swift.Optional&lt;TestingWithStas.Book&gt; in TestingWithStasTests.DBStoragseMock.expectGet(book: Swift.Optional&lt;TestingWithStas.Book&gt;, with: Swift.Int) -&gt; ()"
+                  moduleName = "TestingWithStasTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriimac/dev/TestingWithStas/TestingWithStasTests/TestingWithStasTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D4BE168-4DC3-4208-A19F-01CB06D4248F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "doCall(_:function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B891875-48AC-4833-BD6E-72D46BFEF1C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSMocking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "doCall(_:function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22991F5E-B220-4917-9BF1-96621B73BEB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestingWithStasTests/TestingWithStasTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "getBook(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A89EBA34-9828-41DB-8AEC-03901C8D0C0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSExpectRegistration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "init(result:label:id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F98B0DDC-4142-4E44-A5E0-30BA7C09BAE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSExpectRegistration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "initCallExp(function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "470137F8-FF59-49B1-A09D-53601B6E250E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestingWithStas-henxnlqafeowgjgwksjhuslmwcit/SourcePackages/checkouts/SSSugar/Sources/SSSugarTesting/Mock/SSExpectRegistration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "callIDFor(function:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E04C919E-B399-445A-A217-5CB24AB9B972"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestingWithStas/BookManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "addBook(book:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6961F5F-74D2-4761-938C-490FF719488D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestingWithStas/BookManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "deleteBook(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78895F7E-25A2-4238-A4E5-7B7BBD937B19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestingWithStas/BookManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "changeAuthorForBook(with:newAuthor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
